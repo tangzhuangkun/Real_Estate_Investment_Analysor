@@ -1,0 +1,2 @@
+# Real_Estate_Investment_Analysor
+商铺投资分析工具,可根据城市区域或者关键词抓取在售商铺信息,发掘安居客上的高性价比优质商铺, 生成excel保存在本地
